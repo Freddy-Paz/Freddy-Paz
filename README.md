@@ -16,7 +16,7 @@ I have experience developing real-world systems for educational and agricultural
 - JavaScript
 - HTML5
 - CSS3
-- Bootstrap
+-  Bootstrap
 
 ### Backend
 - Java
@@ -30,14 +30,14 @@ I have experience developing real-world systems for educational and agricultural
 - PostgreSQL
 
 ### Tools & DevOps
-- Git
-- GitHub
-- Docker
-- Postman
-- Swagger
-- Render
-- Railway
-- Vercel
+-  Git
+-  GitHub
+-  Docker
+-  Postman
+-  Swagger
+-  Render
+-  Railway
+-  Vercel
 
 ---
 
